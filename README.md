@@ -1,9 +1,5 @@
 # Writing, Notes & Stuff
 
-![image](https://github.com/0xapriori/meta/assets/116141134/7a06e357-b9b0-4394-b013-cda5dc64d5d4)
-*Source: DALLE-2, Supernova auction on at the end of time by Van gogh*
-
-
 ## 2023
 
 ### Anoma Blog
@@ -17,11 +13,6 @@
 - [Emperor’s Mind - How Grass roots systems can gain traction](https://research.anoma.net/t/emperors-mind-how-grass-roots-systems-can-gain-traction/271)
 - [Rollups From the Future Aren't real](https://research.anoma.net/t/rollups-from-the-future-arent-real/69)
 - [Breaking Down Taiga](https://research.anoma.net/t/breaking-down-taiga/71)
-- [Notes on The Edge of MEV: Switching Costs & the Slow Game](https://research.anoma.net/t/notes-on-the-edge-of-mev-switching-costs-the-slow-game/274)
-- [Notes on The Autonomous Ecologist's Guide to Namada & Anoma](https://research.anoma.net/t/notes-on-the-autonomous-ecologists-guide-to-namada-and-anoma/273)
-- [Notes on Exploring Intents in Modular Architectures](https://research.anoma.net/t/exploring-intents-in-modular-architectures/136?u=apriori)
-- [Notes on Realizing Intents with a Resource Model](https://research.anoma.net/t/realizing-intents-with-a-resource-model/73)
-
 
 ### ZK Validator Blog
 
