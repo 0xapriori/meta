@@ -11,6 +11,12 @@
 ### Anoma Research Forum
 
 - [Emperor’s Mind - How Grass roots systems can gain traction](https://research.anoma.net/t/emperors-mind-how-grass-roots-systems-can-gain-traction/271)
+- [Rollups From the Future Aren't real](https://research.anoma.net/t/rollups-from-the-future-arent-real/69)
+- [Notes on The Edge of MEV: Switching Costs & the Slow Game](https://research.anoma.net/t/notes-on-the-edge-of-mev-switching-costs-the-slow-game/274)
+- [Notes on The Autonomous Ecologist's Guide to Namada & Anoma](https://research.anoma.net/t/notes-on-the-autonomous-ecologists-guide-to-namada-and-anoma/273)
+- [Notes on Exploring Intents in Modular Architectures](https://research.anoma.net/t/exploring-intents-in-modular-architectures/136?u=apriori)
+- [Notes on Realizing Intents with a Resource Model](https://research.anoma.net/t/realizing-intents-with-a-resource-model/73)
+- [Breaking Down Taiga](https://research.anoma.net/t/breaking-down-taiga/71)
 
 ### ZK Validator Blog
 
@@ -25,6 +31,7 @@
 - [MEV-Boost Call 1](https://collective.flashbots.net/t/mev-boost-community-call-1-9-mar-2023/1367/2)
 - [MEV-Boost Call 0](https://collective.flashbots.net/t/mev-boost-community-call-0-23-feb-2023/1348/14)
 - [based MEV-share](https://collective.flashbots.net/t/mev-share-programmably-private-orderflow-to-share-mev-with-users/1264/22)
+- 
 
 ### Green Pill Podcast
 
