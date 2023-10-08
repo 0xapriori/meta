@@ -1,5 +1,9 @@
 # Writing, Notes & Stuff
 
+![image](https://github.com/0xapriori/meta/assets/116141134/7a06e357-b9b0-4394-b013-cda5dc64d5d4)
+*Source: DALLE-2, Supernova auction on at the end of time by Van gogh*
+
+
 ## 2023
 
 ### Anoma Blog
