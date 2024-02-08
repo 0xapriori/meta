@@ -10,6 +10,9 @@
 - [Notes on Ethereum in Numbers - Where physics meets TPS](https://research.anoma.net/t/notes-on-ethereum-in-numbers-where-physics-meets-tps/434)
 - [Notes on Profitable Censorship MEV](https://research.anoma.net/t/notes-on-profitable-censorship-mev/433/1)
 
+### Repositories
+- [Modular](https://github.com/0xapriori/Modular)
+
 ## 2023
 
 ### Anoma Blog
@@ -33,6 +36,9 @@
 ### ZK Validator Blog
 
 - [Data & Function Privacy Architectures](https://zkvalidator.com/data-and-function-privacy-architectures/)
+
+### E&Y White Paper
+- [An introduction to maximal extractable value on Ethereum](https://assets.ey.com/content/dam/ey-sites/ey-com/en_us/topics/financial-services/ey-an-introduction-to-maximal-extractable-value-on-ethereum.pdf)
 
 ### Video Presentations
 
