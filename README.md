@@ -30,6 +30,10 @@
 - [Ideas on Architecutre (Specs) - diagrams, definitions, and framing](https://research.anoma.net/t/ideas-on-architecutre-specs-diagrams-definitions-and-framing/135)
 - [Rollups From the Future Aren't real](https://research.anoma.net/t/rollups-from-the-future-arent-real/69)
 
+### ZK Validator Blog
+
+- [Data & Function Privacy Architectures](https://zkvalidator.com/data-and-function-privacy-architectures/)
+
 ### Video Presentations
 
 - [Anoma Applications at Good-Intentions](https://www.youtube.com/watch?v=rbiE9qxpZ9k)
@@ -59,10 +63,6 @@
 - [Awesome SUAVE](https://github.com/0xapriori/Suave-research?search=1#awesome-suave)
 
 
-### ZK Validator Blog
-
-- [Data & Function Privacy Architectures](https://zkvalidator.com/data-and-function-privacy-architectures/)
-
 ### Namada Forum
 
 - [RPGF nomination: ultra sound relay](https://forum.namada.net/t/rpgf-nomination-ultra-sound-relay/111)
@@ -87,9 +87,6 @@
 - [Incomplete Thoughts on Technical Writing](https://hackmd.io/@0xapriori/HkXkRTpno)
 - [Reading List](https://hackmd.io/@0xapriori/rkOsp8kTj)
 
-### GitHub
-
-- [Awesome SUAVE](https://github.com/0xapriori/Suave-research#awesome-suave)
 
 ## 2022
 
